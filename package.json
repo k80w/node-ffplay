@@ -4,5 +4,11 @@
   "description": "Play audio using FFplay",
   "main": "lib/ffplay.js",
   "author": "Rectar2",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "audio",
+    "ffplay",
+    "sound"
+  ],
+  "repository": "rectar2/node-ffplay"
 }
