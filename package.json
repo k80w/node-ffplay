@@ -1,0 +1,8 @@
+{
+  "name": "ffplay",
+  "version": "1.0.0",
+  "description": "Play audio using FFplay",
+  "main": "lib/ffplay.js",
+  "author": "Rectar2",
+  "license": "MIT"
+}
