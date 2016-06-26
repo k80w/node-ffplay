@@ -3,12 +3,12 @@
   "version": "1.0.1",
   "description": "Play audio using FFplay",
   "main": "lib/ffplay.js",
-  "author": "Rectar2",
+  "author": "dnaf",
   "license": "MIT",
   "keywords": [
     "audio",
     "ffplay",
     "sound"
   ],
-  "repository": "rectar2/node-ffplay"
+  "repository": "dnaf/node-ffplay"
 }
