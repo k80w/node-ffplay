@@ -16,3 +16,12 @@ player.stop(); // Stops playback.
 // so you should remove it
 player = null;
 ```
+
+### Custom options
+
+You can also pass custom options when you construct `FFplay` like so:
+```
+var player = new FFplay("./path/to/sound/file.wav", ["-ss 12", "-nodisp", "-autoexit"]);
+```
+
+The `-nodisp` and `-autoexit` flags are set by default, but if you provide an array of options, you will have to manually specify them.
